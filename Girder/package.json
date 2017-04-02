@@ -1,0 +1,14 @@
+{
+    "name": "ISIC_Grap",
+    "version": "1.0.0",
+    "description": "Grap the images from ISIC. https://isic-archive.com:443/api/v1/dataset?limit=50&offset=0&sort=lowerName&sortdir=1",
+    "main": "app.js",
+    "dependencies": {
+        "express": "4.12.4"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Xinyu Wang",
+    "license": "BSD-2-Clause"
+}
